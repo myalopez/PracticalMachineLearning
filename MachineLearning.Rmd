@@ -1,5 +1,5 @@
 ---
-title: "PredictionMotivation"
+title: "Predictive Modeling of Weight Lifting Excercises"
 output: html_document
 ---
 INTRODUCTION
